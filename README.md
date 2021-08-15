@@ -25,7 +25,7 @@ It is simply a particle effect made using plain javascript. here is the full con
 The particles move around the screen randomly, if you move the mouse, you will see them scatter immediately.
 
 ## Effect2 Usage
-<div style="text-align:center"><img src="https://i.hizliresim.com/d2n9z3b.gif" /></div>
+<div style="text-align:center"><img src="https://i.hizliresim.com/8lz8tok.gif" /></div>
 Bubble design has been made in this effect. wherever you move the mouse cursor, they will follow the cursor :)
 
 
